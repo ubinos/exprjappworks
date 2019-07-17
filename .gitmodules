@@ -1,0 +1,6 @@
+[submodule "library/ubinos"]
+	path = library/ubinos
+	url = https://github.com/ubinos/ubinos.git
+[submodule "library/exprjlib"]
+	path = library/exprjlib
+	url = https://github.com/ubinos/exprjlib.git
